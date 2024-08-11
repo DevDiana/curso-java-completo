@@ -4,7 +4,7 @@ Este repositório contém todo o material que estou estudando durante o curso "J
 
 ## Índice
 
-1. [Controle](./controle.java)
+1. [Controle](./javaCompleto/Controle.java)
 2. [Classes, Objetos, Métodos](#classes-objetos-métodos)
 3. [Orientação a Objeto](#orientação-a-objeto)
 4. [Encapsulamento, Herança, Polimorfismo e Abstração](#encapsulamento-herança-polimorfismo-e-abstração)
